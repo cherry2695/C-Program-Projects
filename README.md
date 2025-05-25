@@ -4,6 +4,6 @@ This repository contains a collection of beginner-friendly and intermediate-leve
 These projects are designed to strengthen your understanding of core C concepts such as loops, conditionals, functions, arrays, strings, file handling etc.
 
 # 🚀 Technologies Used
-Language: C
-IDE: Any C compiler (Code::Blocks, GCC, Turbo C, etc.)
+Language: C <br>
+IDE: Any C compiler (Code::Blocks, GCC, Turbo C, etc.) <br>
 Platform: Console (Terminal)
